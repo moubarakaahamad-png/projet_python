@@ -7,8 +7,8 @@ Veuillez consulter les chemins d’accès à l’ensemble des fichiers ci-dessou
 
 Projet Python
 ├── Projet
-  ├── Projet1
+      ├── Projet1
 ├── TP
-  ├── tp1
+      ├── tp1
 ├── README.md
 
