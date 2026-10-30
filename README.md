@@ -10,7 +10,7 @@ Veuillez consulter les chemins d’accès à l’ensemble des fichiers ci-dessou
 ```
 Projet_python
 ├── Projet
-│   ├── calculatrice_polynomes
+│   ├── projet_maths_boite_a_outils
 │   ├──README.md
 ├── TP
 │   ├── tp1_python    
