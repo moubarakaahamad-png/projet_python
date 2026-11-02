@@ -4,6 +4,7 @@ Bienvenue sur mon GitHub !
 Vous trouverez ici tous les TP de Python ainsi que le projet.
 
 Veuillez consulter les chemins d’accès à l’ensemble des fichiers ci-dessous.
+Et aussi jaimerai préciser que je me suis aidé de l'IA sur 3 exos et aussi pour rendre mon projet qui etait sous forme python sous format jupiterlab car je ne savais pas comment m y prendre.
 
 ## Arborescence du site
 
